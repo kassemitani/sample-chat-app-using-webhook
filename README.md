@@ -1,4 +1,4 @@
-# feathers-react-native-chat
+# sample-react-native-chat
 A React Native example chat app using webhook.
 
 ## Getting Started
